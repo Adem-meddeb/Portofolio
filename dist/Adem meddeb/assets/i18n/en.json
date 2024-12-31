@@ -1,0 +1,84 @@
+{
+    "Header.Item1": "Sur moi",
+    "Header.Item2": "Expérience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Cv",
+    "Header.cvName": "aa.pdf",
+    "Banner.Pretitle": "Bonjour! Je suis",
+    "Banner.Description": "Future développeur web sérieux et assidu , je suis dynamique et capable de travailler en équipe , J'ai une bonne maistrise des outils de développement et je suis en constante recherche d'apprentissage.",
+    "AboutMe.Title": "Sur moi",
+    "AboutMe.Paragraphs": [
+        "Au cours de mes trois années d'études, j'ai acquis une expérience précieuse en travaillant sur l'écriture de tests unitaires, l'exécution d'intégrations continues, et l'occupation de rôles de développeur back-end avec des technologies telles qu'Java, Spring Boot, PHP et MySQL. J'ai également eu l'opportunité de diriger des équipes, en faisant preuve d'empathie, en motivant mes collaborateurs et en établissant ensemble des plans et objectifs clairs.",
+        "Je suis compétent dans l'utilisation de plusieurs technologies, notamment :"
+    ],
+    "Experience.Title": "Expérience",
+    "Experience.Jobs": [
+        {
+            "Tab": "Yes Internet",
+            "Title": "Stage Facultatif",
+            "Date": "Janvier 2024 - Février 2024",
+            "Description": [
+                "Développement d’une application web de gestion des PFE avec Angular, Spring Boot, and MySQL.",
+                "Interface utilisateur intuitive et responsive, facilitant la navigation et la consultation des informations.",
+                "Création de tableaux de bord pour visualiser les statistiques et les rapports liés aux projets.",
+                "Acquisition de solides compétences en conception.",
+                "compréhension et la mise en œuvre de toutes les phases de développement"
+            ]
+        },
+        {
+            "Tab": "Tunisie Telecom",
+            "Title": "Stage d’initiation",
+            "Date": "Janvier 2023 - Février 2023",
+            "Description": [
+                "Découverte des processus opérationnels et des infrastructures techniques de l’entreprise.",
+                "Familiarisation avec les technologies et outils utilisés dans le domaine des télécommunications.",
+                "Participation à des tâches d’observation et de soutien auprès des équipes techniques.",
+                "Développement de compétences en communication professionnelle et en travail d’équipe."
+            ]
+        }
+    
+    ],
+    "FeatureProjects.Title": "Projets auxquels j'ai participé",
+    "FeatureProjects.Label": "Projet en vedette",
+    "FeatureProjects.Projects": [
+        {
+            "Title": "Plateforme de Gestion des Livres",
+            "Description": "Développement d’une application web full-stack pour stocker les livres personelles de chaque utilisateur.",
+            "imgs": [
+                "assets/images/school/login.png",
+                "assets/images/school/home.png",
+                "assets/images/school/search book2.png"
+            ],
+            "Technologies": [
+                "React",
+                "Spring Boot",
+                "MySQL"
+            ]
+        },
+        {
+            "Title": "Plateforme de Gestion des Evénements",
+            "Description": "Développement d’une application web full-stack pour Réserver pour un evénement spécifique ou créer son propre evénement.",
+            "imgs": [
+                "assets/images/Gestion des events/Login1.png",
+                "assets/images/Gestion des events/register.png",
+                "assets/images/Gestion des events/home1.png",
+                "assets/images/Gestion des events/home2.png",
+                "assets/images/Gestion des events/home3.png"
+            ],
+            "demoLink":"https://frontend-dot-adem-445322.nw.r.appspot.com/login",
+            "Technologies": [
+                "React",
+                "Vite",
+                "Spring Boot",
+                "MySQL",
+                "NeonConsole"
+            ]
+        }
+        
+    ],
+    "Contact.Pretitle": "Quelle est la prochaine étape",
+    "Contact.Title": "Entrer en contact!",
+    "Contact.Content": "Je serai ravie de recevoir votre contact si vous souhaitez discuter de nouvelles opportunités. Écrivez-moi et je vous répondrai dès que je verrai votre message. Conception simple d'une page qui présente une lettre de profil avec des informations de base sur une personne.",
+    "Contact.Btn": "Bonjour"
+}
